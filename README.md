@@ -22,6 +22,7 @@ To get the Node server running locally:
 
 ## Application Structure
 
-- `app.js` - The entry point to the application. This file defines our express server. It also requires the routes and models we'll be using in the application.
+- `app.js` - The entry point to the application. This file defines our express server. It also requires the routes we'll be using in the application.
 - `controllers/` - This folder contains a file that checks if user is logged in.
 - `uploads/` - This folder contains images uploaded to the server.
+- `routes/` - This folder contains files that process requests to the API.
