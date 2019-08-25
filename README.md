@@ -15,8 +15,10 @@ To get the Node server running locally:
 - [expressjs](https://github.com/expressjs/express) - The server for handling and routing HTTP requests
 - [mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js
-- [multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`.
+- [multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`
 - [body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware
+- [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - Bcrypt for NodeJs
+- [dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects
 
 ## Application Structure
 
